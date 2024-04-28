@@ -12,8 +12,11 @@ import {
   Area, Bar, Pie, Financial, ColorMapping, Pyramid, Stacked
 } from './pages'
 
+import { useStateContext } from './context/ContextProvider'
+
 const App = () => {
-  const activeMenu = false
+  const { activeMenu } = useStateContext()
+
   return (
     <div>
       <BrowserRouter>
