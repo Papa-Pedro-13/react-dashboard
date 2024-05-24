@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+          "url('https://us-wd.gr-cdn.com/getresponse-blog/sites/5/2020/03/1101/udalennaja-rabota.jpg')",
       },
     },
   },
